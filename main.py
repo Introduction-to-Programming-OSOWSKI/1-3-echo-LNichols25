@@ -1,2 +1,2 @@
-echo ("Hi, 2")
+echo (Hi, 2)
 

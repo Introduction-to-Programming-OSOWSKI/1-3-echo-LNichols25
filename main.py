@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def echo ("Hi, 2")
+

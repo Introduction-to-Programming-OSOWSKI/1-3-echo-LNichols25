@@ -1,2 +1,1 @@
-echo (Hi, 2)
-
+def echo(Hi, 2)
